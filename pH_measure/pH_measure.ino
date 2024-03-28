@@ -1,5 +1,5 @@
 float calibration = 0.00;
-const int analogInPin = A0;
+const int analogInPin = 34;
 int sensorValue = 0;
 unsigned long int avgValue;
 float b;
